@@ -12,7 +12,7 @@ fi
 
 if [ ! -f Unciv.jar ]
 then
-	ftp https://github.com/yairm210/Unciv/releases/download/3.8.7-patch1/Unciv.jar
+	ftp https://github.com/yairm210/Unciv/releases/download/3.8.10/Unciv.jar
 fi
 
 # extract
